@@ -1,7 +1,7 @@
 lib-1970-1979-book
 ================
 Ivan Jacob Agaloos Pesigan
-2024-02-12
+2024-04-10
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -17,6 +17,13 @@ Check](https://github.com/ijapesigan/lib-1970-1979-book/actions/workflows/shellc
 
 <div id="refs" class="references csl-bib-body hanging-indent"
 line-spacing="2">
+
+<div id="ref-Arnold-1974" class="csl-entry">
+
+Arnold, L. (1974). *Stochastic differential equations: Theory and
+applications: Theory and applications*. Wiley.
+
+</div>
 
 <div id="ref-Baltes-Nesselroade-1979" class="csl-entry">
 
