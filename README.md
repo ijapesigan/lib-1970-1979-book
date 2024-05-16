@@ -16,7 +16,7 @@ Check](https://github.com/ijapesigan/lib-1970-1979-book/actions/workflows/shellc
 ## References
 
 <div id="refs" class="references csl-bib-body hanging-indent"
-line-spacing="2">
+entry-spacing="0" line-spacing="2">
 
 <div id="ref-Arnold-1974" class="csl-entry">
 
