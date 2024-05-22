@@ -1,7 +1,7 @@
 lib-1970-1979-book
 ================
 Ivan Jacob Agaloos Pesigan
-2024-05-16
+2024-05-22
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
@@ -21,7 +21,7 @@ entry-spacing="0" line-spacing="2">
 <div id="ref-Arnold-1974" class="csl-entry">
 
 Arnold, L. (1974). *Stochastic differential equations: Theory and
-applications: Theory and applications*. Wiley.
+applications*. Wiley.
 
 </div>
 
