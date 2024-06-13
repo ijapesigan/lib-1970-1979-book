@@ -1,7 +1,7 @@
 lib-1970-1979-book
 ================
 Ivan Jacob Agaloos Pesigan
-2024-06-05
+2024-06-13
 
 <!-- README.md is generated from .setup/readme/README.Rmd. Please edit that file -->
 <!-- badges: start -->
